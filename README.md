@@ -32,7 +32,7 @@ Install dependencies
 ```
 
 ```bash
-  npm i pdf-merger-js
+  npm i nodemon
 ```
 
 ```bash
